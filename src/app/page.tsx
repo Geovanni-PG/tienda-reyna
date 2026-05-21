@@ -80,7 +80,7 @@ export default function Home() {
             </h3>
 
             <p className="text-black mt-4">
-              Perfumes y lociones.
+              Perfumes y lociones. sALUDOS
             </p>
           </div>
 
