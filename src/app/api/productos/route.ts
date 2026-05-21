@@ -2,6 +2,7 @@ import { prisma } from "@/lib/prisma";
 import { NextResponse } from "next/server";
 
 export async function GET() {
+  console.log("hola")
   const productos = await prisma.product.findMany({
     orderBy: {
       createdAt: "desc",

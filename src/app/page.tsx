@@ -80,10 +80,19 @@ export default function Home() {
             </h3>
 
             <p className="text-black mt-4">
-              Perfumes y lociones.
+              Perfumes y lociones. sALUDOS
             </p>
           </div>
 
+          <div className="bg-white rounded-2xl shadow p-8 text-center">
+            <h3 className="text-2xl font-bold text-pink-600">
+              Accesorios
+            </h3>
+
+            <p className="text-black mt-4">
+              Hola Gera y accesorios varios.
+            </p>
+          </div>
           <div className="bg-white rounded-2xl shadow p-8 text-center">
             <h3 className="text-2xl font-bold text-pink-600">
               Accesorios
